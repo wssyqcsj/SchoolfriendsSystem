@@ -7,3 +7,4 @@
 数据库：Microsoft SQL Server Management Studio 18
 采用窗体实现功能
 将连接数据库语句中的Data Source = XXXXXX-XXXXX改为自己的主机名
+本系统是我和同组磊哥一起完成的功能，很高兴和他合作
